@@ -1,3 +1,5 @@
 This is my first file!
 
 I am back to learning version control with GitHub
+
+Version control is one of the skill sets required for DevOps engineers
